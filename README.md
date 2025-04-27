@@ -1,4 +1,7 @@
 # Accountability Bot 
+<p align="left">
+<a href="https://medium.com/@y.zeynab1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@y.zeynab1" height="30" width="40" /></a>
+</p>
 
 **Welcome to my accountability bot** 
 
@@ -51,3 +54,4 @@ The bot interacts with Discord's API and requires a bot token from the **Discord
 ## How to Host the Bot
 
 If you wish to host the bot yourself, I recommend using [Cybrance](https://cybrancee.com/client/aff.php?aff=494) . It’s an easy-to-use platform that allows you to deploy your bot quickly and keep it running 24/7. Be sure to follow the platform’s instructions to properly deploy your bot, and ensure that your bot token is stored securely.
+
