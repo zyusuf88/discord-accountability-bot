@@ -15,15 +15,16 @@ The bot interacts with Discord's API and requires a bot token from the **Discord
 1. **Weekly Accountability Polls**:
    - Start a poll to let participants opt into weekly accountability groups.
    - Automatically create threads for participants to collaborate and share progress.
-![Image](https://github.com/user-attachments/assets/65a22d70-eac8-45a6-9bc1-0cc1a5947d74)
+![Image](https://github.com/user-attachments/assets/7e09c702-0abe-4483-86af-8821f854d72e)
 
 1. **Motivational Messages**:
    - Midweek nudges and end-of-week recaps.
-![Image](https://github.com/user-attachments/assets/edc184f3-9382-427e-b40d-d6b5b4cfeeeb)
+![Image](https://github.com/user-attachments/assets/440cba7f-19bd-43f4-9f7f-e265914df77e)
 
 1. **Thread Management**:
    - Automatically organises users into small groups.
    - Creates a space for participants to interact and stay on track.
+  ![Image](https://github.com/user-attachments/assets/f4a1306d-3824-406f-8582-270ec4056d21)
 
 ---
 
